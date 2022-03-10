@@ -1,0 +1,26 @@
+body {border: 10px groove; 
+	  margin-left: 15px;
+	  margin-right: 15px;
+	  margin-bottom: 15px;
+	  margin-top: 15px;
+	  background: #f5deb3;
+	  border-color: #deb887;}
+
+p{ margin-left: 25px;
+   margin-right: 25px;
+   margin-bottom: 15px;
+   margin-top: 15px;
+   text-align: justify; }
+
+img {border-style: groove;
+     border-width: 9px;
+     border-color: #d2b48c;
+     margin-bottom: 15px;}
+
+
+
+ ul li{
+
+ 	margin-left: 45%;
+ }
+
